@@ -1,2 +1,2 @@
-# DDHLOOS
-Written programs for the subject responsible for learning about basic and commonly used design patterns.
+# Design and development of high-level object-oriented systems
+Includes all the assignments made during the subject.  
