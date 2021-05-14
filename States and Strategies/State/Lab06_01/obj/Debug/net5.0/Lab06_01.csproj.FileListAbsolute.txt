@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\bin\Debug\net5.0\Lab06_01.exe
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\bin\Debug\net5.0\Lab06_01.deps.json
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\bin\Debug\net5.0\Lab06_01.runtimeconfig.json
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\bin\Debug\net5.0\Lab06_01.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\bin\Debug\net5.0\Lab06_01.dll
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\bin\Debug\net5.0\ref\Lab06_01.dll
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\bin\Debug\net5.0\Lab06_01.pdb
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\obj\Debug\net5.0\Lab06_01.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\obj\Debug\net5.0\Lab06_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\obj\Debug\net5.0\Lab06_01.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\obj\Debug\net5.0\Lab06_01.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\obj\Debug\net5.0\Lab06_01.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\obj\Debug\net5.0\Lab06_01.dll
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\obj\Debug\net5.0\ref\Lab06_01.dll
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\obj\Debug\net5.0\Lab06_01.pdb
+C:\Users\Alex\source\repos\Lab06_01\Lab06_01\obj\Debug\net5.0\Lab06_01.genruntimeconfig.cache
